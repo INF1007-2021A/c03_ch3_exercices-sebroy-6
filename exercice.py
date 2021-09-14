@@ -1,5 +1,7 @@
 import math
 
+# Chapitre 3 - exercices en classe
+
 
 def average(a: float, b: float, c: float) -> float:
     return (a + b + c) / 3
